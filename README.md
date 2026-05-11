@@ -7,9 +7,9 @@ This repository contains a machine learning pipeline for Network Intrusion Detec
 
 | Model |  Accuracy |  Recall | AUC-ROC | Implementation |
 | :--- | :--- | :--- | :--- | :--- |
-| **1D-CNN** | **97.58%** | **95.00%** | **0.9952** | Optimized Spatial Filters |
-| **ANN (SGD)** | 96.00% | 93.00% | 0.9720 | 128-64-32 Tapered Layers |
-| **SVM (RBF)** | 96.38% | 93.00% | 0.9746 | Subsampled (20k rows) |
+| **1D-CNN** | **97.65%** | **95.00%** | **0.9950** | Optimized Spatial Filters |
+| **ANN (SGD)** | 97.00% | 93.00% | 0.9793 | 128-64-32 Tapered Layers |
+| **SVM (RBF)** | 96.00% | 93.00% | 0.9746 | Subsampled (20k rows) |
 
 ## Model Architectures
 
